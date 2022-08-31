@@ -7,3 +7,6 @@ spring:
         git:
           default-label: main
           uri: https://github.com/spacecodee/config-server-ms.git
+          search-paths: config-data
+  application:
+    name: config-server
