@@ -5,4 +5,5 @@ spring:
     config:
       server:
         git:
-          uri:
+          default-label: main
+          uri: https://github.com/spacecodee/config-server-ms.git
